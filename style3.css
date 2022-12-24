@@ -1,0 +1,23 @@
+*
+{
+    background-color:lightblue
+}
+{
+    padding:0 ;
+    margin:0 ;
+    box-sizing: border-box;
+}
+item{
+    color:aquamarine
+    cursor: pointer;
+}
+
+img{
+    height: 70px
+    width: 60px
+}
+
+
+    
+
+
